@@ -1,0 +1,15 @@
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Users\fulls\OneDrive\Desktop\repos\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
